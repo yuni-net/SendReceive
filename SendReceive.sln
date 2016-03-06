@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Send", "Send\Send.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Receive", "Receive\Receive.vcxproj", "{A1F3FC70-45C1-4EB4-848D-31DB9C2F48E8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SendReceiver", "SendReceiver\SendReceiver.vcxproj", "{064B1DDF-514D-4683-9371-791573F9FAA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +23,10 @@ Global
 		{A1F3FC70-45C1-4EB4-848D-31DB9C2F48E8}.Debug|Win32.Build.0 = Debug|Win32
 		{A1F3FC70-45C1-4EB4-848D-31DB9C2F48E8}.Release|Win32.ActiveCfg = Release|Win32
 		{A1F3FC70-45C1-4EB4-848D-31DB9C2F48E8}.Release|Win32.Build.0 = Release|Win32
+		{064B1DDF-514D-4683-9371-791573F9FAA7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{064B1DDF-514D-4683-9371-791573F9FAA7}.Debug|Win32.Build.0 = Debug|Win32
+		{064B1DDF-514D-4683-9371-791573F9FAA7}.Release|Win32.ActiveCfg = Release|Win32
+		{064B1DDF-514D-4683-9371-791573F9FAA7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
